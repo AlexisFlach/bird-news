@@ -38,6 +38,7 @@ const BackgroundImg = styled.div`
 
 const Content = styled.div`
     display: flex;
+    flex-direction: column;
     align-items: center;  
     justify-content: center;
     text-align: center;
@@ -50,7 +51,7 @@ const Content = styled.div`
 `
 
 const Title = styled.h1`
-    font-size: 7em;
+    font-size: 5em;
     font-weight:300;
     color: ${theme.ORANGE};
     margin-bottom: 10px;
