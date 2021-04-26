@@ -1,0 +1,28 @@
+{
+  "birds": [
+    {
+      "id": 1,
+      "name": "Parrot",
+      "imageUrl": "https://images.unsplash.com/photo-1549608276-5786777e6587?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80",
+      "isSeen": false
+    },
+    {
+      "id": 2,
+      "name": "Chaffinch",
+      "imageUrl": "https://images.unsplash.com/photo-1493236296276-d17357e28888?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1951&q=80",
+      "isSeen": false
+    },
+    {
+      "id": 3,
+      "name": "Parrot",
+      "imageUrl": "https://images.unsplash.com/photo-1549608276-5786777e6587?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80",
+      "isSeen": false
+    },
+    {
+      "id": 4,
+      "name": "Parrot",
+      "imageUrl": "https://images.unsplash.com/photo-1549608276-5786777e6587?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2850&q=80",
+      "isSeen": true
+    }
+  ]
+}
